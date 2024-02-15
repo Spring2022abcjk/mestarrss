@@ -1,3 +1,13 @@
+https://feeds.feedburner.com/AllAboutRSS
+https://rsshub.app/bilibili/user/dynamic/11336264/disvedio
+https://rsshub.app/telegram/channel/xhqcankao
+https://rsshub.app/telegram/channel/LCGFX
+https://nitter.cz/whyyoutouzhele/rss
+https://rsshub.app/telegram/channel/tnews365/showLinkPreview=0&includeServiceMsg=0&includeReply=0&includeFwd=0
+https://chinadigitaltimes.net/chinese/feed
+https://rsshub.app/telegram/channel/DNSPODT
+https://rsshub.app/wsj/zh-cn/china
+http://zhihurss.miantiao.me/dailyrss
 https://www.reddit.com/r/technology.xml
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-6OW5aJYBFM33zXQlBKPNA
 https://www.theverge.com/rss/tech/index.xml
