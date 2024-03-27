@@ -89,3 +89,4 @@ http://www.ximalaya.com/album/31752988.xml
 https://access.acast.com/rss/62cff2d9d455860013698a7f
 https://ipfs.io/ipns/olivida.eth/podcast.xml
 https://feedpress.me/9to5googledaily
+https://zh.wikinews.org/wiki/Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85
